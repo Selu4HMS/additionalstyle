@@ -1,1 +1,11 @@
 .p1 {background-color: hsl(120, 100%, 50%);}  /* green */
+/*
+  eWON code
+*/
+a.btn:focus:active {
+	box-shadow: 0 1px 5px rgba(0,0,0,.7);
+}
+
+.sfContentBlock a.steps-btn {
+	;	width: 80px;
+}
